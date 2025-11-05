@@ -32,8 +32,8 @@ export default function SiteFooter() {
             icon={<PhoneIcon />}
           >
             Call:{" "}
-            <a className="underline-offset-4 hover:underline" href="tel:+917090233111">
-              +91 70902 33111
+            <a className="underline-offset-4 hover:underline" href="tel:+917411807807">
+              +91 7411807807
             </a>
           </InfoBlock>
 
@@ -44,9 +44,9 @@ export default function SiteFooter() {
           <InfoBlock title="Email Us" icon={<MailIcon />}>
             <a
               className="underline-offset-4 hover:underline break-all"
-              href="mailto:sales@slvdevelopers.com"
+              href="mailto:slvgoldentowers25@gmail.com"
             >
-              sales@slvdevelopers.com
+              slvgoldentowers25@gmail.com
             </a>
           </InfoBlock>
         </div>
@@ -70,7 +70,7 @@ export default function SiteFooter() {
             <Social href="https://facebook.com"><FiFacebook /></Social>
             <Social href="https://instagram.com"><FiInstagram /></Social>
             <Social href="https://youtube.com"><FiYoutube /></Social>
-            <Social href="https://wa.me/917090233111"><FaWhatsapp /></Social>
+            <Social href="https://wa.me/917411807807"><FaWhatsapp /></Social>
           </div>
         </div>
       </div>

@@ -260,7 +260,7 @@ export default function NearByFacilities() {
 
       {/* ====== VIDEO (FULL WIDTH) ====== */}
       <div className="relative left-1/2 right-1/2 -mx-[50vw] w-screen">
-        <div className="relative w-full overflow-hidden">
+        <div className="relative w-[92vw] max-w-[1200px] mx-auto overflow-hidden">
           {/* 16:9 ratio */}
           <div className="relative w-full" style={{ paddingBottom: "56.25%" }}>
             {ytId && (
